@@ -1,0 +1,45 @@
+.fonts{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+
+*{
+    box-sizing:border-box;
+}
+
+.row{
+    margin: 0px;
+    padding: 0 0 30px 0;
+}
+
+
+.header{
+    padding-top: 30px;
+    margin-bottom:30px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.div{
+    border: solid;
+    padding: 15px;
+    margin-bottom: 20px;
+    background:lightgray;
+}
+
+body{
+    background: lightblue;
+}
+
+.subhead{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+li>a{
+    font-size:20px ;
+}
+
+li>a:hover{
+    background: white;
+}
+
